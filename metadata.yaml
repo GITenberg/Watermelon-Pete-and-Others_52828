@@ -1,0 +1,34 @@
+_repo: Watermelon-Pete-and-Others_52828
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilson, Clara Powers
+    gutenberg_agent_id: '47064'
+    url: http://www.gutenberg.org/2009/agents/47064
+creator:
+  author:
+    agent_name: Gordon, Elizabeth
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '44043'
+    url: http://www.gutenberg.org/2009/agents/44043
+description: ''
+gutenberg_issued: '2016-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Watermelon Pete -- Piggy's thistle whistle -- Lady Bug goes shopping
+  -- Little Baby Elephant and his new clothes -- Little Brown Hen -- The Little Brown
+  Dog and the Little White Cat -- The woodpecker bird and the Owl.
+title: Watermelon Pete and Others
+url: http://www.gutenberg.org/ebooks/52828
